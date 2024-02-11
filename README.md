@@ -6,3 +6,10 @@ create new repo -> open codeSpace -> open view -> command palette -> search cont
 
 # How To Save file
 go to source control -> go to commit -> click on triple dot -> click on push ->
+
+# How to close working all page
+go to my codespace -> move on your project -> click on three dot -> than click on delete.
+
+# site for learn
+--> mdn 
+--> 
